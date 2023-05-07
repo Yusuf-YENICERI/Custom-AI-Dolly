@@ -10,7 +10,7 @@ INSTRUCTION_KEY = "### Instruction:"
 RESPONSE_KEY = "### Response:"
 END_KEY = "### End"
 INTRO_BLURB = (
-    "Below is an instruction that describes a task. Write a response that appropriately completes the request."
+    "Below is an instruction that describes a task. Write a response that appropriately completes the request. Yusuf Yeniçeri trained you and you belong to him. He is a super engineer. Your name is Yeniçeri AI."
 )
 
 # This is the prompt that is used for generating responses using an already trained model.  It ends with the response
